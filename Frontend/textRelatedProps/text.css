@@ -1,0 +1,22 @@
+.my_text {
+  color: rgb(163, 44, 44);
+  /* text-align: right; */
+  text-align: left;
+  text-decoration: dashed underline 10px red;
+  /* text-decoration-line: underline;
+  text-decoration-color: blue;
+  text-decoration-style: solid;
+  text-decoration-thickness: 3px; */
+  font-family: "Playwrite NG Modern", cursive;
+}
+.inner_para {
+  letter-spacing: 0px;
+  word-spacing: 10px;
+  text-shadow: 1px 1px 2px black;
+  /* white-space: nowrap; */
+  /* white-space: pre-wrap; */
+  /* white-space: pre; */
+}
+
+* {
+}

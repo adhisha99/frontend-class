@@ -1,0 +1,29 @@
+h4 {
+  color: blue;
+}
+i {
+  color: red;
+}
+
+/* button {
+  background-color: green;
+  color: white;
+} */
+.first_para {
+  color: blueviolet;
+}
+#my_para {
+  color: aqua;
+}
+#specific_para {
+}
+
+* {
+  background-color: rgb(213, 240, 240);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.login_btn,
+#register_btn {
+  background-color: orange;
+}

@@ -1,0 +1,53 @@
+
+/* element selector */
+/* p {
+  color: blueviolet;
+}
+button {
+  color: blue;
+} */
+
+/* p {
+  color: aqua;
+} */
+
+
+/* class selector */
+.my_para {
+  font-size: 40px;
+}
+.login_btn {
+  background-color: green;
+  color: white;
+}
+
+/* id selector */
+#main-heading {
+  color: blueviolet;
+}
+
+/* universal */
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* .para1 {
+  color: blue;
+  font-size: 20px;
+}
+.para2 {
+  color: blue;
+  font-size: 20px;
+}
+#para3 {
+  color: blue;
+  font-size: 20px;
+} */
+
+
+/* group selector */
+.para1,
+.para2,
+#para3 {
+  color: blue;
+  font-size: 20px;
+}
