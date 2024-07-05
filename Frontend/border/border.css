@@ -1,0 +1,20 @@
+.main-container {
+  /* border: ; */
+  /* border-width: 2px;
+  border-style: dashed;
+  border-color: red; */
+  height: 400px;
+  width: 500px;
+
+  border-top-width: 2px;
+  border-bottom-width: 5px;
+  border-left-width: 10px;
+  border-right-width: 10px;
+
+  border-top-style: dotted;
+  border-bottom-style: double;
+  border-right-style: dotted;
+  border-left-style: double;
+
+  /* border: 2px red dashed; */
+}

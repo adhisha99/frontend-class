@@ -1,0 +1,21 @@
+.para {
+  background-color: blue;
+  color: white;
+}
+body {
+}
+.inner-con {
+  /* background-image: url(../images/abstract-autumn-beauty-multi-colored-leaf-vein-pattern-generated-by-ai_188544-9871.avif); */
+  height: 500px;
+  width: 500px;
+  /* object-fit: contain; */
+  background: url(../images/abstract-autumn-beauty-multi-colored-leaf-vein-pattern-generated-by-ai_188544-9871.avif);
+}
+.inner-para {
+  color: red;
+}
+.attachment_cls {
+  /* background-repeat: no-repeat; */
+  background: no-repeat scroll
+    url(../images/abstract-autumn-beauty-multi-colored-leaf-vein-pattern-generated-by-ai_188544-9871.avif);
+}

@@ -1,0 +1,21 @@
+.main-con {
+  height: 500px;
+  width: 500px;
+  border: 1px solid black;
+}
+.box {
+  height: 100px;
+  width: 100px;
+  border: 1px solid red;
+}
+.box1 {
+  background-color: aquamarine;
+  /* visibility: hidden; */
+  display: block;
+}
+.box2 {
+  background-color: blue;
+}
+.box3 {
+  background-color: brown;
+}
